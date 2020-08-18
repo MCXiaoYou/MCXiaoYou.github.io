@@ -1,2 +1,2 @@
-# MCXiaoYou.github.io
+# mcxiaoyou.github.io
 XiaoYou's official web
